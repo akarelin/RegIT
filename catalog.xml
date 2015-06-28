@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://192.168.172.199/services.wsdl" uri="xml-resources/web-service-references/services/wsdl/192.168.172.199/services.wsdl"/>
+    <system systemId="http://192.168.172.199/WEB/udiws30.ws" uri="xml-resources/web-service-references/udiws30/wsdl/192.168.172.199/WEB/udiws30.ws.wsdl"/>
+    <system systemId="http://192.168.172.199/WEB/udiobjs.xsd" uri="xml-resources/web-service-references/udiws30/wsdl/192.168.172.199/WEB/udiobjs.xsd"/>
+    <system systemId="http://192.168.172.199/WEB/udievnts.xsd" uri="xml-resources/web-service-references/udiws30/wsdl/192.168.172.199/WEB/udievnts.xsd"/>
+    <system systemId="http://192.168.172.199/WEB/upb.xsd" uri="xml-resources/web-service-references/udiws30/wsdl/192.168.172.199/WEB/upb.xsd"/>
+    <system systemId="http://192.168.172.199/WEB/insteon.xsd" uri="xml-resources/web-service-references/udiws30/wsdl/192.168.172.199/WEB/insteon.xsd"/>
+    <system systemId="http://192.168.172.199/WEB/zwobjs.xsd" uri="xml-resources/web-service-references/udiws30/wsdl/192.168.172.199/WEB/zwobjs.xsd"/>
+    <system systemId="http://192.168.172.199/WEB/family.xsd" uri="xml-resources/web-service-references/udiws30/wsdl/192.168.172.199/WEB/family.xsd"/>
+    <system systemId="http://192.168.172.199/WEB/log.xsd" uri="xml-resources/web-service-references/udiws30/wsdl/192.168.172.199/WEB/log.xsd"/>
+    <system systemId="http://192.168.172.199/WEB/elkobjs.xsd" uri="xml-resources/web-service-references/udiws30/wsdl/192.168.172.199/WEB/elkobjs.xsd"/>
+    <system systemId="http://192.168.172.199/WEB/oadrobjs.xsd" uri="xml-resources/web-service-references/udiws30/wsdl/192.168.172.199/WEB/oadrobjs.xsd"/>
+</catalog>
